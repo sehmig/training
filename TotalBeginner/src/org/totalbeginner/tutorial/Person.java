@@ -6,6 +6,7 @@ public class Person {
 	private int maximumBooks; //max number ofbooks zu check out
 	// constructors
 	public Person() {
+		// Test
 		name = "unknown name";
 		maximumBooks = 3;	
 	}
